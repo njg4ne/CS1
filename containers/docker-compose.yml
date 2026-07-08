@@ -1,0 +1,14 @@
+services:
+  autograder:
+    build: .
+    image: docker.io/njg4ne/gradescope-autograder-cs1:prototype
+    # image: ghcr.io/njg4ne/gradescope-autograder-cs1:prototype
+    command: /autograder/run_autograder
+    tty: true
+    stdin_open: true
+    volumes:
+      - ./run_autograder:/autograder/run_autograder
+      - ./results:/autograder/results
+    #   - ./volumes/gradescope/submission:/autograder/submission
+    #   - ./volumes/gradescope/x-coverage:/coverage
+    # working_dir: /coverage
