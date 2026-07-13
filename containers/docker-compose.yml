@@ -7,7 +7,7 @@ services:
     tty: true
     stdin_open: true
     volumes:
-      - ./run_autograder:/autograder/run_autograder
+      - ./gradescope-autograder-cs1/src/run_autograder:/autograder/run_autograder
       - ./results:/autograder/results
     #   - ./volumes/gradescope/submission:/autograder/submission
     #   - ./volumes/gradescope/x-coverage:/coverage
