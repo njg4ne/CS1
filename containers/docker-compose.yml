@@ -1,8 +1,8 @@
 services:
   autograder:
-    build: .
-    image: docker.io/njg4ne/gradescope-autograder-cs1:prototype
-    # image: ghcr.io/njg4ne/gradescope-autograder-cs1:prototype
+    build: ./gradescope-autograder-cs1
+    # image: docker.io/njg4ne/gradescope-autograder-cs1:prototype
+    image: ghcr.io/njg4ne/gradescope-autograder-cs1:prototype
     command: /autograder/run_autograder
     tty: true
     stdin_open: true

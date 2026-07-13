@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cli=podman
-extract_dir="containers/gradescope-autograder-cs1/assets/.gradescope"
+extract_dir="containers/gradescope-autograder-cs1/src/.gradescope"
 
 echo "[INFO] Wiping any existing $extract_dir directory"
 if [ -d "$extract_dir" ]; then
