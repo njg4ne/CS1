@@ -51,5 +51,5 @@
 	- runs code
 
 ## References
-[Dr. Sprenkle's Lecture 0](https://cs.wlu.edu/~sprenkles/cs111/slides/00-intro.pdf)
-[W&L CS Website](https://cs.wlu.edu/)
+- [Dr. Sprenkle's Lecture 0](https://cs.wlu.edu/~sprenkles/cs111/slides/00-intro.pdf)
+- [W&L CS Website](https://cs.wlu.edu/)
