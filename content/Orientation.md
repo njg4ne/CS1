@@ -3,16 +3,16 @@
 - != Programming
 - Fun and engaging
 - Unlocks human-focused and technical careers
-	- Vanessa, User Experience Designer, Booz Allen Hamilton
-	![[assets/images/vanessa.jpg]]
+	- Vanessa, User Experience Designer, Booz Allen Hamilton!
+	![Vanessa](assets/images/vanessa.jpg)
 	- Mia, Machine Learning Engineer, Vanguard
-	![[assets/images/mia.jpeg]]
+	![Mia](assets/images/mia.jpeg)
 	- Bella, Senior Software Engineer, Capital One
 	- Rae, Software Development Engineer at Amazon Web Services
 - proceeds from here with [more courses](https://www.wlu.edu/computer-science-department/about-the-department/required-courses-flow-chart)
- ![[assets/images/ba-flow-chart.jpg]]
- 
- ![[assets/images/bs-flow-chart.jpg]]
+![BA Degree Flow](assets/images/ba-flow-chart.jpg)
+
+![BS Degree Flow](assets/images/bs-flow-chart.jpg)
 
 # About the Course
 - see [[Syllabus]]
