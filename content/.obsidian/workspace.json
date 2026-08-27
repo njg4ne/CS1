@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "414e795a10849f9d",
+        "id": "b38db898cfd23a72",
         "type": "tabs",
         "children": [
           {
-            "id": "f0f8e778bacee499",
+            "id": "165eb31464e5084e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -96,8 +96,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/Types, Expressions, Assignments.md",
-                "collapseAll": false,
+                "file": "Orientation.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Types, Expressions, Assignments"
+              "title": "Backlinks"
             }
           },
           {
@@ -115,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/Types, Expressions, Assignments.md",
+                "file": "Orientation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Types, Expressions, Assignments"
+              "title": "Outgoing links"
             }
           },
           {
@@ -158,21 +158,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/Types, Expressions, Assignments.md",
+                "file": "Orientation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Types, Expressions, Assignments"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,12 +185,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "f0f8e778bacee499",
+  "active": "395bfcb03e61e13a",
   "lastOpenFiles": [
+    "Syllabus.md",
+    "Orientation.md",
+    "assets/images/vanessa.jpg",
     "assets/code/in-move-math-out.py",
     "assets/code/code.py",
     "assets/code",
-    "assets/images/vanessa.jpg",
     "assets/images/mia.jpeg",
     "assets/images/bs-flow-chart.jpg",
     "assets/images/ba-flow-chart.jpg",
@@ -204,10 +206,7 @@
     "Topics/Terminals & Shells.md",
     "code/code.py",
     "Untitled.md",
-    "Orientation.md",
     "data/total-rainfall.txt",
-    "data/rainfalls.csv",
-    "Syllabus.md",
     "images/ba-flow-chart.jpg",
     "images/mia.jpeg",
     "images/vanessa.jpg",
