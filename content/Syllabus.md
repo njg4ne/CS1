@@ -1,23 +1,24 @@
 # CSCI 1100 Syllabus
 
-*Introduction to Computer Science, Fall 2026, Section 4*
+*Introduction to Computer Science, Fall 2026, Section 04*
 
 ## Course Information
 
-|                |                                                                                                                  |
-| -------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Credits**    | 4                                                                                                                |
-| **Mode**       | In-Person                                                                                                        |
-| **Term**       | Fall 2026                                                                                                        |
-| **Section**    | 04                                                                                                               |
-| **Instructor** | [Nicholas Gardella](https://n.gardella.cc/), [Ph.D.](https://phd.gardella.cc/)                                   |
-| **Canvas**     | [Course 18744](https://wlu.instructure.com/courses/18744)                                                        |
-| **GitHub**     | [njg4ne/CS1](https://github.com/njg4ne/CS1)                                                                      |
-| **YouTube**    | [@niqwis](https://www.youtube.com/@niqwis) → [CS1 Playlist](https://www.youtube.com/playlist?list=PLTFWHIORxjkg) |
+|                                                                                                                 |                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Credits**                                                                                                     | 4                                                                                                                |
+| [FDRs](https://www.wlu.edu/university-registrar/courses-and-registration/foundation-and-distribution-offerings) | [Math & Computer Science (FM)](https://catalog.wlu.edu/content.php?catoid=46&navoid=4710#FM)                     |
+| **Mode**                                                                                                        | In-Person                                                                                                        |
+| **Term**                                                                                                        | Fall 2026                                                                                                        |
+| **Section**                                                                                                     | 04                                                                                                               |
+| **Instructor**                                                                                                  | [Nicholas Gardella](https://n.gardella.cc/), [Ph.D.](https://phd.gardella.cc/)                                   |
+| **Canvas**                                                                                                      | [Course 18744](https://wlu.instructure.com/courses/18744)                                                        |
+| **GitHub**                                                                                                      | [njg4ne/CS1](https://github.com/njg4ne/CS1)                                                                      |
+| **YouTube**                                                                                                     | [@niqwis](https://www.youtube.com/@niqwis) → [CS1 Playlist](https://www.youtube.com/playlist?list=PLTFWHIORxjkg) |
 
 ## Time Commitment
 
-The total expected time commitment for this course is 7-13 hours per week for 12 weeks (84-156 hours total).
+The total expected time commitment for this course is **7-13 hours per week** for 12 weeks (84-156 hours total).
 
 ### Class Meetings
 
@@ -32,7 +33,7 @@ At least 50% of the expected time commitment is simply coming to every course me
 
 You are expected to budget roughly **4 hours (range 1-7) per week** to complete assignments and otherwise grapple with course content.
 
-## Course Materials
+## Materials
 
 ### Required Supplies
 
@@ -87,3 +88,27 @@ There is **no required textbook** for this course. There is an optional textbook
 
 [Porter, Leo, and Daniel Zingaro. _Learn AI-Assisted Python Programming_. Second edition., Manning Publications Co., 2024.](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/12ub5kj/alma991010940955204161)
 
+## Outcomes
+Outcomes describe what students should be able to do well upon successful completion of the course.
+### FM Outcomes
+To meet W&L's [Foundation and Distribution Requirements](https://www.wlu.edu/university-registrar/courses-and-registration/foundation-and-distribution-offerings) for the [Foundations of Math & Computer Science (FM)](https://catalog.wlu.edu/content.php?catoid=46&navoid=4710#FM), the following objectives apply.
+- recall concepts and apply tools to solve problems in computer science
+- think analytically and solve problems
+- communicate ideas and thoughts clearly
+
+### Detailed Outcomes
+- recall & apply... 
+	- skills to write, format, and debug code in an Integrated Development Environment
+	- syntax of the Python programming language to express basic ideas in code without assistance
+	- facts and syntax about shell scripting needed to navigate a computer's filesystem and run programs with a terminal instead of a graphical interface
+	- appropriate Python libraries to search, sort, transform and aggregate text and numerical data
+	- objective testing approaches to evaluating code correctness
+- analyze...
+	- Python code via reading and tracing
+	- abstract problems to reframe them in computational terms
+	- problem structures to decompose them into smaller problems
+- communicate...
+	- the real-world, human impacts of software
+	- the purpose, origin, and behavior of code with comments and text documents
+	- instructions for or help-seeking requests from both humans and Artificial Intelligence tools
+	- ideas and opinions about subjective socio-technical matters and programming aesthetics
