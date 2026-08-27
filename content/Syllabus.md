@@ -4,6 +4,8 @@
 
 ## Course Information
 
+This course introduces students to core technical and social ideas in computing.  Emphasis is on Python programming, data science, use of common disciplinary tools, and socio-technical issues, and applicability. It is appropriate for anyone wishing to learn the fundamentals and purpose of computer science. No prior experience is needed.
+
 |                                                                                                                 |                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | **Credits**                                                                                                     | 4                                                                                                                |
@@ -15,6 +17,9 @@
 | **Canvas**                                                                                                      | [Course 18744](https://wlu.instructure.com/courses/18744)                                                        |
 | **GitHub**                                                                                                      | [njg4ne/CS1](https://github.com/njg4ne/CS1)                                                                      |
 | **YouTube**                                                                                                     | [@niqwis](https://www.youtube.com/@niqwis) → [CS1 Playlist](https://www.youtube.com/playlist?list=PLTFWHIORxjkg) |
+### Catalog Description
+
+This course introduces students to fundamental ideas in computer science while building skills in software development. Emphasis is on problem-solving methods, algorithm development, and object-oriented concepts. CSCI 1100 is appropriate for all students who want to be able to write programs, regardless of the domain.  It is the typical first course for computer science majors and minors.  No previous programming experience required.  Lectures and formal laboratories.
 
 ## Time Commitment
 
@@ -101,6 +106,8 @@ To meet W&L's [Foundation and Distribution Requirements](https://www.wlu.edu/uni
 	- skills to write, format, and debug code in an Integrated Development Environment
 	- syntax of the Python programming language to express basic ideas in code without assistance
 	- facts and syntax about shell scripting needed to navigate a computer's filesystem and run programs with a terminal instead of a graphical interface
+	- contrasting imperative and declarative approaches to solving a given problem
+	- basic Object-Oriented Programming only when necessary (to handle multiplicitous self-management of classed and nested data)
 	- appropriate Python libraries to search, sort, transform and aggregate text and numerical data
 	- objective testing approaches to evaluating code correctness
 - analyze...
@@ -109,6 +116,7 @@ To meet W&L's [Foundation and Distribution Requirements](https://www.wlu.edu/uni
 	- problem structures to decompose them into smaller problems
 - communicate...
 	- the real-world, human impacts of software
+	- algorithms in English, pseudocode, and Python
 	- the purpose, origin, and behavior of code with comments and text documents
 	- instructions for or help-seeking requests from both humans and Artificial Intelligence tools
 	- ideas and opinions about subjective socio-technical matters and programming aesthetics
