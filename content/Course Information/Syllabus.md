@@ -156,7 +156,8 @@ Private materials, including anything presented in Canvas, Poll Everywhere, Grad
 Everything you are expected to do for the class is graded in some way. **Grades are up to instructor discretion**, but will almost always follow the scales and weights below. There is no final exam, but you will be required to submit work during finals week.
 
 > [!NOTE] 
-> **Grade Forgiveness**. 25% of all grades in all grade categories are dropped
+> **Grade Forgiveness**. Roughly 25% of all scores in each grade category will be dropped in the calculation of the final grade to account for occasional absences, bad days, and mess-ups. For example, if there are 13 group quizzes, your 3 lowest group quiz scores will be dropped. Therefore, do not request special grading exceptions (see also [Attendance & Late Work](#attendance--late-work)).
+
 
 | Location  | Percentage |
 | --------- | ---------- |
