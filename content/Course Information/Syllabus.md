@@ -174,9 +174,9 @@ Everything you are expected to do for the class is graded in some way. **Grades 
 |Discussion Polls|Lecture|Participation|5%|Community|
 |Group Quizzes|Lecture|Correctness|10%|Learning|
 |Solo Quizzes|Lecture|Correctness|20%|Assessment|
-|Solo Technical Labs|Lab|Correctness|17.5%|Assessment|
-|Pair Technical Labs|Lab|Correctness|15%|Learning|
-|AI-Assisted Technical Labs|Lab|Correctness|10%|Learning|
+|Solo Labs|Lab|Correctness|17.5%|Assessment|
+|Parnered Labs|Lab|Correctness|15%|Learning|
+|AI-Assisted Labs|Lab|Correctness|10%|Learning|
 |||TOTAL|100.0%||
 
 > [!NOTE] 
