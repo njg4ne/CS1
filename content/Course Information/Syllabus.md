@@ -138,7 +138,7 @@ There are also regular evening Teaching Assistant office hours that server multi
 ## Policies
 ### Grading
 
-Everything you are expected to do for the class is graded in some way. **Grades are up to instructor discretion**, but will almost always follow the scales and weights below.
+Everything you are expected to do for the class is graded in some way. **Grades are up to instructor discretion**, but will almost always follow the scales and weights below. There is **no final exam**, but you will be required to submit work during finals week.
 
 > [!NOTE] Grade Forgiveness
 > 25% of all grades in all grade categories are dropped
