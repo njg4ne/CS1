@@ -1,6 +1,6 @@
 # W&L CSCI 1100 Syllabus
 
-*Introduction to Computer Science, Fall 2026, Section 04*, Washington & Lee University
+*Introduction to Computer Science, Fall 2026, Section 04, Washington & Lee University*
 
 **© Nicholas Gardella, 2026 ([LICENSE](LICENSE.md))**
 
