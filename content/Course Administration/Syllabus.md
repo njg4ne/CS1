@@ -140,7 +140,7 @@ Labs are programming and technical activities done in solo, paired, and AI-assis
 ### Homework
 Homework includes technical activities, watching or listening to lecture material, note-taking, and administrative tasks like installing software and giving course feedback.
 ### Office Hours
-Instructor office hours are by [appointment](https://meet.gardella.cc/) during consistent hours; see [Office-Hours-F26-Gardella.pdf](/content/Course%20Information/Office-Hours-F26-Gardella.pdf).
+Instructor office hours are by [appointment](https://meet.gardella.cc/) during consistent hours; see [Office-Hours-F26-Gardella.pdf](content/Course-Administration/Office-Hours-F26-Gardella.pdf).
 
 There are also regular evening Teaching Assistant office hours that server multiple Computer Science courses; see [Canvas](https://wlu.instructure.com/courses/18744) for schedules and details.
 

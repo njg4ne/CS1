@@ -20,7 +20,7 @@
 <img src="assets/images/bs-flow-chart.jpg" alt="BS Degree Flow Chart" width="400" />
 
 # About the Course
-- see [[Syllabus]]
+- see [Syllabus](content/Course%20Administration/Syllabus.md)
 
 # Technical Aspects of Computing
 - solve problems (in abstract)
