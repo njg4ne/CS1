@@ -116,7 +116,7 @@ Some other software may be recommended throughout the course.
 	- [sign up](https://github.com/signup) with your .edu email **OR** [add it to your existing account](https://github.com/settings/emails) 
 	- [setup 2FA](https://github.com/settings/security) with Duo (and optionally passkey in your password manager)
 	- [apply](https://github.com/settings/education/benefits) for [free student benefits](https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student) (includes GitHub Copilot Student AI coding tools)
-- (Optional) Bitwarden (see [[#Software]])
+- (Optional) Bitwarden (see [Software](#software))
 ### Optional Textbook
 There is **no required textbook** for this course. There is an optional textbook that is **freely available online** through the W&L library; this recommended way to access the book. The university is aware of this book, and you may purchase a paper copy; but you are **not** encouraged to do so.
 
