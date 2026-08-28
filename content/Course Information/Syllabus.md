@@ -42,7 +42,7 @@ At least 50% of the expected time commitment is simply coming to every course me
 ### Out-of-Class Work
 
 
-> [!SUCCESS]
+> [!TIP]
 > **No Sudying**. Traditional passive studying is strongly discouraged in this course 🙂
 
 
