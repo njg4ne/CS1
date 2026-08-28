@@ -1,1 +1,1 @@
-# CS1
+content/Course Information/Syllabus.md
