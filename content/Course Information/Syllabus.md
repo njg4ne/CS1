@@ -131,7 +131,7 @@ Labs are programming and technical activities done in solo, paired, and AI-assis
 ### Homework
 Homework includes technical activities, watching or listening to lecture material, note-taking, and administrative tasks like installing software and giving course feedback.
 ### Office Hours
-Instructor office hours are by [appointment](https://meet.gardella.cc/) during consistent hours; see [Office-Hours-F26-Gardella.pdf](./Office-Hours-F26-Gardella.pdf).
+Instructor office hours are by [appointment](https://meet.gardella.cc/) during consistent hours; see [Office-Hours-F26-Gardella.pdf](/content/Course%20Information/Office-Hours-F26-Gardella.pdf).
 
 There are also regular evening Teaching Assistant office hours that server multiple Computer Science courses; see [Canvas](https://wlu.instructure.com/courses/18744) for schedules and details.
 
@@ -142,7 +142,7 @@ There are also regular evening Teaching Assistant office hours that server multi
 > [!NOTE]
 > **Two-Party Consent**. This policy is much stricter than [Virginia law](https://law.lis.virginia.gov/vacode/title19.2/chapter6/section19.2-62/).
 
-You may share any [public materials](https://github.com/njg4ne/CS1) in compliance with the [LICENSE](../../LICENSE.md) and any applicable copyright laws.
+You may share any [public materials](https://github.com/njg4ne/CS1) in compliance with the [LICENSE](/LICENSE.md) and any applicable copyright laws.
 
 Private materials, including anything presented in Canvas, Poll Everywhere, Gradescope, and other W&L overseen IT services may absolutely not be duplicated, saved after the term, or shared with anyone without explicit, written instructor permission.
 
