@@ -22,7 +22,9 @@ This course introduces students to core technical and social ideas in computing.
 | **YouTube**                                                                                                     | [@niqwis](https://www.youtube.com/@niqwis) → [CS1 Playlist](https://www.youtube.com/playlist?list=PLTFWHIORxjkg) |
 ### Catalog Description
 
-This course introduces students to fundamental ideas in computer science while building skills in software development. Emphasis is on problem-solving methods, algorithm development, and object-oriented concepts. CSCI 1100 is appropriate for all students who want to be able to write programs, regardless of the domain.  It is the typical first course for computer science majors and minors.  No previous programming experience required.  Lectures and formal laboratories.
+From [W&L course catalog](https://www.wlu.edu/university-registrar/catalogs):
+
+> This course introduces students to fundamental ideas in computer science while building skills in software development. Emphasis is on problem-solving methods, algorithm development, and object-oriented concepts. CSCI 1100 is appropriate for all students who want to be able to write programs, regardless of the domain.  It is the typical first course for computer science majors and minors.  No previous programming experience required.  Lectures and formal laboratories.
 
 ## Time Commitment
 
@@ -216,7 +218,9 @@ Some assignments require good faith participation *in-trust*, with an innocent u
 Some assignments will have *recommended* restrictions that are not enforced; hold to these for your own learning benefit. Disregarding them is bad for you and your GPA but is not grounds for an HV.
 ### Accommodations & Accessibility
 #### Standard Notice
+
 From [W&L Disability Resources](https://www.wlu.edu/disability-accommodations/undergraduate-disability-resources/information-for-faculty/sample-syllabus-statement):
+
 > I am committed to ensuring equal access to course content for all students. Reasonable accommodations are available for students with disabilities. Contact Lauren Kozak, Title IX Coordinator and Director of Disability Resources, to confidentially discuss your needs and the accommodation process. More information can be found at the [Disability Accommodations website](https://www.wlu.edu/disability-accommodations/undergraduate-disability-resources).
 > 
 > If you have already been approved for accommodations, please meet with me within the first two weeks of the term so we can develop an implementation plan together. It is important to meet as early in the term as possible; this will ensure that your accommodations are implemented early on. If you have accommodations for test-taking, please remember that arrangements must be made at least a week before the date of the test or exam.
