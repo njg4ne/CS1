@@ -223,6 +223,6 @@ From [W&L Disability Resources](https://www.wlu.edu/disability-accommodations/un
 
 Accommodations such as "double time" may look different in this course; for example, quizzes that are administered once for practice and then once for assessment may be given three times instead of twice with double time.
 
-Discuss any unofficial accommodation concerns with the instructor during private [Office Hours](#Office%20Hours).
+Discuss any unofficial accommodation concerns with the instructor during private [Office Hours](<#Office Hours>).
 
 Course accessibility is extremely important. If any text, video, audio, or other content provided to you for this course is or seems inaccessible in any way, please notify the instructor immediately.
