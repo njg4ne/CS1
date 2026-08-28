@@ -1,10 +1,9 @@
 # W&L CSCI 1100 Syllabus
 
-*Introduction to Computer Science, Fall 2026, Section 04*
+*Introduction to Computer Science, Fall 2026, Section 04*, Washington & Lee University
 
 **© Nicholas Gardella, 2026 ([LICENSE](LICENSE.md))**
 
-Washington & Lee University
 ## Course Information
 
 This course introduces students to core technical and social ideas in computing.  Emphasis is on Python programming, data science, use of common disciplinary tools, and socio-technical issues, and applicability. It is appropriate for anyone wishing to learn the fundamentals and purpose of computer science. No prior experience is needed.
