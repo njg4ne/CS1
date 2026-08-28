@@ -198,7 +198,7 @@ Everything you are expected to do for the class is graded in some way. **Grades 
 Because the [Grading](#Grading) forgiveness policy is generous, the following policies are ruthless.
 
 Attendance is required and enforced through graded work in each class meeting. This work cannot be made up. Misrepresenting attendance or that of another student by submitting in-class work for someone who is not in class is banned by the [Honesty Policy](#Honesty). **Do not come to class if you are contagiously sick**. If you need to miss class, you do not need to ask permission or provide doctors'/coaches' notes; just try to keep absences to a minimum. 
-- If you are concerned that [Grading](#Grading) forgiveness will not be sufficient for your needs, please negotiate an arrangement with the instructor during [Office Hours](#Office%20Hours). This will typically only be considered in cases of death, longterm illness, W&L sports travel, or similar reasons.
+- If you are concerned that [Grading](#Grading) forgiveness will not be sufficient for your needs, please negotiate an arrangement with the instructor during [Office Hours](#office-hours). This will typically only be considered in cases of death, longterm illness, W&L sports travel, or similar reasons.
 - If you are concerned that you will miss important material when you are absent, you are correct.
 
 Late work is not accepted and receives a 0% grade.
