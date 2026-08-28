@@ -145,7 +145,10 @@ Instructor office hours are by [appointment](https://meet.gardella.cc/) during c
 There are also regular evening Teaching Assistant office hours that server multiple Computer Science courses; see [Canvas](https://wlu.instructure.com/courses/18744) for schedules and details.
 
 ## Policies
-
+### Student Agency
+Any student may advocate for course policy changes at any time. Students who rally peer support are more likely to be considered. The instructor decides all course policies but considers student suggestions and agrees not to change any policies listed in this syllabus during the term without a vote from enrolled students.
+### Deadlines
+Deadlines will always be either during lecture or lab session or at 11:59pm on a weekday (Monday through Friday).
 ### Recording & Sharing
 
 > [!NOTE]
