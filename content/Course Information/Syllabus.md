@@ -138,10 +138,10 @@ There are also regular evening Teaching Assistant office hours that server multi
 ## Policies
 ### Grading
 
-Everything you are expected to do for the class is graded in some way. **Grades are up to instructor discretion**, but will almost always follow the scales and weights below. There is **no final exam**, but you will be required to submit work during finals week.
+Everything you are expected to do for the class is graded in some way. **Grades are up to instructor discretion**, but will almost always follow the scales and weights below. There is no final exam, but you will be required to submit work during finals week.
 
-> [!NOTE] Grade Forgiveness
-> 25% of all grades in all grade categories are dropped
+> [!NOTE] 
+> **Grade Forgiveness**. 25% of all grades in all grade categories are dropped
 
 | Location  | Percentage |
 | --------- | ---------- |
@@ -164,8 +164,8 @@ Everything you are expected to do for the class is graded in some way. **Grades 
 | AI-Assisted Technical Assignments | Lab      | Correctness   | 10%        | Learning   |
 |                                   |          | **TOTAL**     | **100.0%** |            |
 
-> [!NOTE] Point Equivalency
-> Canvas points are **meaningless** to compare across grade categories! For example, a 2 point assignment is only worth twice a 1 point assignment if it is in the same grade category.
+> [!NOTE] 
+> **Point Equivalency**. Canvas points are **meaningless** to compare across grade categories! For example, a 2 point assignment is only worth twice a 1 point assignment if it is in the same grade category.
 
 | Min. % | Grade  | GPA  | Description |
 | ------ | ------ | ---- | ----------- |
