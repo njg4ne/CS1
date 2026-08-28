@@ -39,6 +39,34 @@ At least 50% of the expected time commitment is simply coming to every course me
 
 You are expected to budget roughly **4 hours (range 1-7) per week** to complete assignments and otherwise grapple with course content.
 
+## Outcomes
+Outcomes describe what students should be able to do well upon successful completion of the course.
+### FM Outcomes
+To meet W&L's [Foundation and Distribution Requirements](https://www.wlu.edu/university-registrar/courses-and-registration/foundation-and-distribution-offerings) for the [Foundations of Math & Computer Science (FM)](https://catalog.wlu.edu/content.php?catoid=46&navoid=4710#FM), the following outcomes apply.
+- recall concepts and apply tools to solve problems in computer science
+- think analytically and solve problems
+- communicate ideas and thoughts clearly
+### Detailed Outcomes
+The instructor's interpretation of these outcomes is as follows.
+- recall & apply... 
+	- skills to write, format, and debug code in an Integrated Development Environment
+	- syntax of the Python programming language to express basic ideas in code without assistance
+	- facts and shell syntax to navigate a computer's filesystem and run programs with a terminal instead of a graphical interface
+	- contrasting imperative and declarative approaches to implement simple algorithms
+	- basic Object-Oriented Programming to handle multiplicitous self-management of classed and nested data
+	- appropriate Python libraries to search, sort, transform and aggregate text and numerical data
+	- objective testing teqniques to evaluate code correctness
+- analyze...
+	- Python code via reading and tracing
+	- abstract problems to reframe them in computational terms
+	- problem structures to decompose them into smaller problems
+- communicate...
+	- the real-world, human impacts of software
+	- algorithms in English, pseudocode, and Python
+	- the purpose, origin, and behavior of code with comments and text documents
+	- instructions for or help-seeking requests from both humans and Artificial Intelligence tools
+	- ideas and opinions about subjective socio-technical matters and programming aesthetics
+
 ## Materials
 If you cannot afford or find any materials, please contact the instructor. 
 ### Required Supplies
@@ -94,34 +122,6 @@ There is **no required textbook** for this course. There is an optional textbook
 
 [Porter, Leo, and Daniel Zingaro. _Learn AI-Assisted Python Programming_. Second edition., Manning Publications Co., 2024.](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/12ub5kj/alma991010940955204161)
 
-## Outcomes
-Outcomes describe what students should be able to do well upon successful completion of the course.
-### FM Outcomes
-To meet W&L's [Foundation and Distribution Requirements](https://www.wlu.edu/university-registrar/courses-and-registration/foundation-and-distribution-offerings) for the [Foundations of Math & Computer Science (FM)](https://catalog.wlu.edu/content.php?catoid=46&navoid=4710#FM), the following outcomes apply.
-- recall concepts and apply tools to solve problems in computer science
-- think analytically and solve problems
-- communicate ideas and thoughts clearly
-### Detailed Outcomes
-The instructor's interpretation of these outcomes is as follows.
-- recall & apply... 
-	- skills to write, format, and debug code in an Integrated Development Environment
-	- syntax of the Python programming language to express basic ideas in code without assistance
-	- facts and shell syntax to navigate a computer's filesystem and run programs with a terminal instead of a graphical interface
-	- contrasting imperative and declarative approaches to implement simple algorithms
-	- basic Object-Oriented Programming to handle multiplicitous self-management of classed and nested data
-	- appropriate Python libraries to search, sort, transform and aggregate text and numerical data
-	- objective testing teqniques to evaluate code correctness
-- analyze...
-	- Python code via reading and tracing
-	- abstract problems to reframe them in computational terms
-	- problem structures to decompose them into smaller problems
-- communicate...
-	- the real-world, human impacts of software
-	- algorithms in English, pseudocode, and Python
-	- the purpose, origin, and behavior of code with comments and text documents
-	- instructions for or help-seeking requests from both humans and Artificial Intelligence tools
-	- ideas and opinions about subjective socio-technical matters and programming aesthetics
-
 ## Activities
 There is required, [graded](#Grading) work in lecture and lab and for homework. Office hours are optional.
 ### Lecture
@@ -136,6 +136,17 @@ Instructor office hours are by [appointment](https://meet.gardella.cc/) during c
 There are also regular evening Teaching Assistant office hours that server multiple Computer Science courses; see [Canvas](https://wlu.instructure.com/courses/18744) for schedules and details.
 
 ## Policies
+
+### Recording & Sharing
+
+> [!NOTE]
+> **Two-Party Consent**. This policy is much stricter than [Virginia law](https://law.lis.virginia.gov/vacode/title19.2/chapter6/section19.2-62/).
+
+You may share any [public materials](https://github.com/njg4ne/CS1) in compliance with the [LICENSE](../../LICENSE.md) and any applicable copyright laws.
+
+Private materials, including anything presented in Canvas, Poll Everywhere, Gradescope, and other W&L overseen IT services may absolutely not be duplicated, saved after the term, or shared with anyone without explicit, written instructor permission.
+
+**You may not record** course meetings or office hours via audio, video, sensors, or other means without explicit, written instructor permission.
 ### Grading
 
 Everything you are expected to do for the class is graded in some way. **Grades are up to instructor discretion**, but will almost always follow the scales and weights below. There is no final exam, but you will be required to submit work during finals week.
@@ -202,6 +213,16 @@ Some assignments require good faith participation *in-trust*, with an innocent u
 
 Some assignments will have *recommended* restrictions that are not enforced; hold to these for your own learning benefit. Disregarding them is bad for you and your GPA but is not grounds for an HV.
 ### Accommodations & Accessibility
-Reasonable accommodations will be made as needed for students with disabilities and impairments. Students should request formal accommodations through [official channels](https://www.wlu.edu/disability-accommodations/undergraduate-disability-resources) and discuss them with the instructor in the first two weeks of the term or thereafter only as applicable policies allow. Otherwise, please share unofficial concerns with the instructor during private [Office Hours](#Office%20Hours).
+#### Standard Notice
+From [W&L Disability Resources](https://www.wlu.edu/disability-accommodations/undergraduate-disability-resources/information-for-faculty/sample-syllabus-statement):
+> I am committed to ensuring equal access to course content for all students. Reasonable accommodations are available for students with disabilities. Contact Lauren Kozak, Title IX Coordinator and Director of Disability Resources, to confidentially discuss your needs and the accommodation process. More information can be found at the [Disability Accommodations website](https://www.wlu.edu/disability-accommodations/undergraduate-disability-resources).
+> 
+> If you have already been approved for accommodations, please meet with me within the first two weeks of the term so we can develop an implementation plan together. It is important to meet as early in the term as possible; this will ensure that your accommodations are implemented early on. If you have accommodations for test-taking, please remember that arrangements must be made at least a week before the date of the test or exam.
+
+#### Instructor Notice
+
+Accommodations such as "double time" may look different in this course; for example, quizzes that are administered once for practice and then once for assessment may be given three times instead of twice with double time.
+
+Discuss any unofficial accommodation concerns with the instructor during private [Office Hours](#Office%20Hours).
 
 Course accessibility is extremely important. If any text, video, audio, or other content provided to you for this course is or seems inaccessible in any way, please notify the instructor immediately.
