@@ -171,12 +171,12 @@ Everything you are expected to do for the class is graded in some way. **Grades 
 |Homework Notes|Home|Participation|7.5%|Learning|
 |Technical Homework|Home|Correctness|7.5%|Learning|
 |Administrative Homework|Home|Participation|7.5%|Overhead|
-|Discussion Interaction|Lecture|Participation|5%|Community|
+|Discussion Polls|Lecture|Participation|5%|Community|
 |Group Quizzes|Lecture|Correctness|10%|Learning|
 |Solo Quizzes|Lecture|Correctness|20%|Assessment|
-|Solo Technical Assignments|Lab|Correctness|17.5%|Assessment|
-|Pair Technical Assignments|Lab|Correctness|15%|Learning|
-|AI-Assisted Technical Assignments|Lab|Correctness|10%|Learning|
+|Solo Technical Labs|Lab|Correctness|17.5%|Assessment|
+|Pair Technical Labs|Lab|Correctness|15%|Learning|
+|AI-Assisted Technical Labs|Lab|Correctness|10%|Learning|
 |||TOTAL|100.0%||
 
 > [!NOTE] 
