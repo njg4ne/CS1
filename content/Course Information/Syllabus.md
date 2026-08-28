@@ -171,18 +171,18 @@ Everything you are expected to do for the class is graded in some way. **Grades 
 | Lab       | 42.5%      |
 | **TOTAL** | **100.0%** |
 
-|Category|Location|Grading|Percentage|Purpose|
-|---|---|---|---|---|
-|Homework Notes|Home|Participation|7.5%|Learning|
-|Technical Homework|Home|Correctness|7.5%|Learning|
-|Administrative Homework|Home|Participation|7.5%|Overhead|
-|Discussion Polls|Lecture|Participation|5%|Community|
-|Group Quizzes|Lecture|Correctness|10%|Learning|
-|Solo Quizzes|Lecture|Correctness|20%|Assessment|
-|Solo Labs|Lab|Correctness|17.5%|Assessment|
-|Parnered Labs|Lab|Correctness|15%|Learning|
-|AI-Assisted Labs|Lab|Correctness|10%|Learning|
-|||TOTAL|100.0%||
+| Category                | Location | Grading       | Percentage | Purpose    |
+| ----------------------- | -------- | ------------- | ---------- | ---------- |
+| Homework Notes          | Home     | Participation | 7.5%       | Learning   |
+| Technical Homework      | Home     | Correctness   | 7.5%       | Learning   |
+| Administrative Homework | Home     | Combination   | 7.5%       | Overhead   |
+| Discussion Polls        | Lecture  | Participation | 5%         | Community  |
+| Group Quizzes           | Lecture  | Combination   | 10%        | Learning   |
+| Solo Quizzes            | Lecture  | Correctness   | 20%        | Assessment |
+| Solo Labs               | Lab      | Correctness   | 17.5%      | Assessment |
+| Parnered Labs           | Lab      | Combination   | 15%        | Learning   |
+| AI-Assisted Labs        | Lab      | Combination   | 10%        | Learning   |
+|                         |          | TOTAL         | 100.0%     |            |
 
 > [!NOTE] 
 > **No Point Equivalency**. Canvas points are **meaningless** to compare across grade categories! For example, a 2 point assignment is only worth twice a 1 point assignment if it is in the same grade category.
