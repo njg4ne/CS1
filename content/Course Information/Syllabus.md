@@ -41,7 +41,12 @@ At least 50% of the expected time commitment is simply coming to every course me
 
 ### Out-of-Class Work
 
-You are expected to budget roughly **4 hours (range 1-7) per week** to complete assignments and otherwise grapple with course content.
+
+> [!SUCCESS]
+> **No Sudying**. Traditional passive studying is strongly discouraged in this course 🙂
+
+
+You are expected to budget roughly **4 hours (range 1-7) per week** to complete homework and otherwise grapple with course content.
 
 ## Outcomes
 Outcomes describe what students should be able to do well upon successful completion of the course.
