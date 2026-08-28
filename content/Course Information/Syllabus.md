@@ -162,26 +162,25 @@ Everything you are expected to do for the class is graded in some way. **Grades 
 | Location  | Percentage |
 | --------- | ---------- |
 | Home      | 22.5%      |
-| Lecture   | 35.0%      |
+| Lecture   | 35%        |
 | Lab       | 42.5%      |
 | **TOTAL** | **100.0%** |
 
-| Category                          | Location | Grading       | Percentage | Purpose    |
-| --------------------------------- | -------- | ------------- | ---------- | ---------- |
-| Homework Notes                    | Home     | Participation | 7.5%       | Learning   |
-| Technical Homework                | Home     | Correctness   | 7.5%       | Learning   |
-| Administrative Homework           | Home     | Participation | 7.5%       | Overhead   |
-| Discussion Interaction            | Lecture  | Participation | 5%         | Community  |
-| Start of Class Quizzes            | Lecture  | Participation | 5%         | Learning   |
-| Group Quizzes                     | Lecture  | Participation | 7.5%       | Learning   |
-| End of Class Quizzes              | Lecture  | Correctness   | 17.5%      | Assessment |
-| Solo Technical Assignments        | Lab      | Correctness   | 17.5%      | Assessment |
-| Pair Technical Assignments        | Lab      | Correctness   | 15%        | Learning   |
-| AI-Assisted Technical Assignments | Lab      | Correctness   | 10%        | Learning   |
-|                                   |          | **TOTAL**     | **100.0%** |            |
+|Category|Location|Grading|Percentage|Purpose|
+|---|---|---|---|---|
+|Homework Notes|Home|Participation|7.5%|Learning|
+|Technical Homework|Home|Correctness|7.5%|Learning|
+|Administrative Homework|Home|Participation|7.5%|Overhead|
+|Discussion Interaction|Lecture|Participation|5%|Community|
+|Group Quizzes|Lecture|Correctness|10%|Learning|
+|Solo Quizzes|Lecture|Correctness|20%|Assessment|
+|Solo Technical Assignments|Lab|Correctness|17.5%|Assessment|
+|Pair Technical Assignments|Lab|Correctness|15%|Learning|
+|AI-Assisted Technical Assignments|Lab|Correctness|10%|Learning|
+|||TOTAL|100.0%||
 
 > [!NOTE] 
-> **Point Equivalency**. Canvas points are **meaningless** to compare across grade categories! For example, a 2 point assignment is only worth twice a 1 point assignment if it is in the same grade category.
+> **No Point Equivalency**. Canvas points are **meaningless** to compare across grade categories! For example, a 2 point assignment is only worth twice a 1 point assignment if it is in the same grade category.
 
 | Min. % | Grade  | GPA  | Description |
 | ------ | ------ | ---- | ----------- |
