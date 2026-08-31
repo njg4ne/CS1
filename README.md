@@ -80,7 +80,7 @@ The instructor's interpretation of these outcomes is as follows.
 If you cannot afford or find any materials, please contact the instructor. 
 ### Required Supplies
 
-You **must** have these supplies by the second lecture meeting and have them available for every subsequent meeting and all out-of-class working sessions.
+You **must** have these supplies by the second lecture meeting and have them available for every subsequent meeting and all out-of-class working sessions. You need these to complete homeworks (see [Grading](#Grading) and [Note Taking Instructions](/content/Course%20Administration/Note%20Taking%20Instructions.md)) and participate in class.
 
 | Quantity | Item                                           |
 | -------- | ---------------------------------------------- |
@@ -92,7 +92,7 @@ You **must** have these supplies by the second lecture meeting and have them ava
 
 By being enrolled in this course, you have in-person and remote access to [over 30 desktop computers](https://wlu.app.box.com/v/ComputerScienceLabs) running Ubuntu linux. However, the following technology is highly recommended.
 #### Laptop
-It is best to have a personal laptop to use for course activities. If you cannot afford to obtain a computer of your own, contact the instructor or your adviser. At a minimum, try to meet the following minimum requirements.
+It is best to have a personal laptop to use for course activities. At a minimum, try to meet the following minimum requirements.
 
 | Specification  | Minimum                                  |
 | -------------- | ---------------------------------------- |
@@ -147,8 +147,12 @@ There are also regular evening Teaching Assistant office hours that server multi
 ## Policies
 ### Student Agency
 Any student may advocate for course policy changes at any time. Students who rally peer support are more likely to be considered. The instructor decides all course policies but considers student suggestions and agrees not to change any policies listed in this syllabus during the term without a vote from enrolled students.
+
 ### Deadlines
+
 Deadlines will always be either during lecture or lab session or at 11:59pm on a weekday (Monday through Friday).
+
+Late work is not accepted and receives a 0% grade.
 ### Recording & Sharing
 
 > [!NOTE]
@@ -164,8 +168,7 @@ Private materials, including anything presented in Canvas, Poll Everywhere, Grad
 Everything you are expected to do for the class is graded in some way. **Grades are up to instructor discretion**, but will almost always follow the scales and weights below. There is no final exam, but you will be required to submit work during finals week.
 
 > [!NOTE] 
-> **Grade Forgiveness**. Roughly 25% of all scores in each grade category will be dropped in the calculation of the final grade to account for occasional absences, bad days, and mess-ups. For example, if there are 13 group quizzes, your 3 lowest group quiz scores will be dropped. Therefore, do not request special grading exceptions (see also [Attendance & Late Work](#attendance--late-work)).
-
+> **Grade Forgiveness**. Roughly 25% of all scores in each grade category will be dropped in the calculation of the final grade to account for occasional absences, bad days, and mess-ups. For example, if there are 13 group quizzes, your 3 lowest group quiz scores will be dropped. Therefore, do not request special grading exceptions (see also [Deadlines](#Deadlines)).
 
 | Location  | Percentage |
 | --------- | ---------- |
@@ -205,15 +208,23 @@ Everything you are expected to do for the class is graded in some way. **Grades 
 | 64%    | D      | 1.00 | Marginal    |
 | 60%    | D-     | 0.67 |             |
 | 0%     | F or E | 0.00 | Failure     |
-### Attendance & Late Work
+|        |        |      |             |
+### Attendance
 
-Because the [Grading](#Grading) forgiveness policy is generous, the following policies are ruthless.
+#### Physical Attendance
 
-Attendance is required and enforced through graded work in each class meeting. This work cannot be made up. Misrepresenting attendance or that of another student by submitting in-class work for someone who is not in class is banned by the [Honesty Policy](#Honesty). **Do not come to class if you are contagiously sick**. If you need to miss class, you do not need to ask permission or provide doctors'/coaches' notes; just try to keep absences to a minimum. 
+Attendance is required and enforced through graded work in each class meeting. This work cannot be made up. Misrepresenting your attendance or that of another student by submitting in-class work for someone who is not in class is banned by the [Honesty Policy](#Honesty). **Do not come to class if you are contagiously sick**. If you need to miss class, you do not need to ask permission or provide doctors'/coaches' notes; just try to keep absences to a minimum. 
 - If you are concerned that [Grading](#Grading) forgiveness will not be sufficient for your needs, please negotiate an arrangement with the instructor during [Office Hours](#office-hours). This will typically only be considered in cases of death, longterm illness, W&L sports travel, or similar reasons.
-- If you are concerned that you will miss important material when you are absent, you are correct.
+- If you are concerned that you will miss important material when you are absent, you are correct. Showing up is important in life.
+#### Mental Attendance
 
-Late work is not accepted and receives a 0% grade.
+Attendance is more than being in the physical room; you must be mentally present while in the class, **or you will be asked to leave**. If you don't plan to be mentally present, don't be physically present.
+- No **digital** note-taking without an [accommodation](#Accommodations--Accessibility)
+- No **unprompted** technology use of any kind
+	- Only use phones, laptops, or lab computers when specifically instructed
+	- No phone usage, outside communication, doing work for other courses, tending to personal business, etc.
+	- When not in use, desktops should be locked or logged out, laptops closed, and phones away and silenced or you will be called out
+- Leave the room briefly if you need to text, take a call, or do other prohibited tasks (you are trusted not to abuse this privilege for [cheating](#Honesty)).
 ### Honesty
 Do not lie, cheat, steal, plagiarise, falsify, fabricate, or use unauthorized resources on any work for this class; you are responsible to know the meanings of these terms prior to submitting any work. Direct any questions to the instructor.
 
@@ -222,6 +233,9 @@ Dishonest behavior is grounds for a W&L Honor Violation (HV), which can lead to 
 By default, all work you present for this class must be genuinely yours, created without reference to written, online, human, Artificial Intelligence, or other resources. Some assignments will be clearly labeled to instead allow some or all of these resources.
 
 Some assignments require good faith participation *in-trust*, with an innocent until proven guilty approach. Misrepresenting good faith participation (e.g. submitting a blank page instead of a picture of your notes) may initially be given full credit but is banned; violators can expect 0% grades and HV referrals.
+
+> [!IMPORTANT]
+> Submitting in-class work outside of class (e.g. from your dorm) is against this honesty policy.
 
 Some assignments will have *recommended* restrictions that are not enforced; hold to these for your own learning benefit. Disregarding them is bad for you and your GPA but is not grounds for an HV.
 ### Accommodations & Accessibility
@@ -239,4 +253,4 @@ Accommodations such as "double time" may look different in this course; for exam
 
 Discuss any unofficial accommodation concerns with the instructor during private [Office Hours](#Office-Hours).
 
-Course accessibility is extremely important. If any text, video, audio, or other content provided to you for this course is or seems inaccessible in any way, please notify the instructor immediately.
+Course material accessibility is extremely important. If any text, video, audio, or other content provided to you for this course is or seems inaccessible in any way, please notify the instructor immediately.
