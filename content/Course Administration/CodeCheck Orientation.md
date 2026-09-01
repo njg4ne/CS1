@@ -18,12 +18,14 @@ Everything you do on CodeCheck is **public and anonymous**! It uses a loose secu
 3. Always have your [class notebook, pen, and pencil](/content/Course%20Administration/Syllabus.md#Required-Supplies) ready to [take process notes](/content/Course%20Administration/Note%20Taking%20Instructions.md)
 4. Attempt each problem with **no assistance** first
 5. [Take process notes](/content/Course%20Administration/Note%20Taking%20Instructions.md) about questions and confusions that come to mind
-6. (Recommended) Watch the corresponding video[walkthrough video](#Video-Walkthroughs) to see another thought process
+6. (Recommended) Watch the corresponding [walkthrough video](#Video-Walkthroughs) to see another thought process
 7. [Take reaction notes](/content/Course%20Administration/Note%20Taking%20Instructions.md) about questions and confusions that come to mind, noting down any answers you found to previous questions
-8. (Recommended) Use the internet, generative AI, or any other resource to attempt to answer any unresolved questions/confusions in your [notes](/content/Course%20Administration/Note%20Taking%20Instructions.md)
+8. (Recommended) Use peers, TAs, the internet, generative AI, or any other resource to attempt to answer any unresolved questions/confusions in your [notes](/content/Course%20Administration/Note%20Taking%20Instructions.md)
 9. Mark any still unanswered questions (it's great if you still have some!) to ask during Q+A at the next [course lecture meeting](/content/Course%20Administration/Syllabus.md#Class-Meetings), where you can then record the answers
 
 ## Video Walkthroughs
 
 [YouTube Walkthrough Playlist: CodeCheck® Python Assignments](https://youtube.com/playlist?list=PLQESBzv_QzQw&si=yFlSHwpQM3oWCA2q)
 
+## Grading
+You are graded for correctness with unlimited attempts and no restrictions on what resources you can use. If your grade is not synced to Canvas correctly, there is a clear way to resend it.
