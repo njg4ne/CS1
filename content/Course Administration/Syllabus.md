@@ -82,15 +82,22 @@ If you cannot afford or find any materials, please contact the instructor.
 
 You **must** have these supplies by the second lecture meeting and have them available for every subsequent meeting and all out-of-class working sessions. You need these to complete homeworks (see [Grading](#Grading) and [Note Taking Instructions](/content/Course%20Administration/Note%20Taking%20Instructions.md)) and participate in class.
 
-| Quantity | Item                                           |
-| -------- | ---------------------------------------------- |
-| 1        | college-ruled 1 subject notebook or equivalent |
-| 1        | black pen                                      |
-| 1        | black pencil                                   |
+| Quantity | Item                                                             |
+| -------- | ---------------------------------------------------------------- |
+| 1        | college-ruled 1 subject notebook or equivalent                   |
+| 1        | black pen                                                        |
+| 1        | black pencil                                                     |
+| 1        | personal laptop computer (any specs; recommended minimums below) |
+
+> [!NOTE] 
+> Some in-class activities can be done on a smartphone or tablet, but others will require a laptop.
 
 ### Recommended Technology
 
 By being enrolled in this course, you have in-person and remote access to [over 30 desktop computers](https://wlu.app.box.com/v/ComputerScienceLabs) running Ubuntu linux. However, the following technology is highly recommended.
+
+> [!NOTE] 
+> You will want to set your W&L IT-wide password to a strong but easy-to-type password or passphrase such as *R3runCivic$9MajestyFretful* and then **practice typing it over and over**. You can use a password manager on your own computer, but lab computers require you to type this to log in!
 #### Laptop
 It is best to have a personal laptop to use for course activities. At a minimum, try to meet the following minimum requirements.
 
