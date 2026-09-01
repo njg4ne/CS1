@@ -1,7 +1,7 @@
 # Python Cheatsheets
 
 ## Links
-- [Python 3.14 Documentation]([https://docs.python.org/3.14/](https://docs.python.org/3.14/))
+- [Python 3.14 Documentation](https://docs.python.org/3.14/)
 - [Eric Matthes's Beginner's Cheat Sheet](https://github.com/ehmatthes/pcc_3e/blob/main/cheat_sheets/color_sheets/beginners_python_cheat_sheet_pcc_all.pdf)
 - [Jure Šorn's Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 ## Usage
