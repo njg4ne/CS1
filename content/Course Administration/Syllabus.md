@@ -80,14 +80,13 @@ The instructor's interpretation of these outcomes is as follows.
 If you cannot afford or find any materials, please contact the instructor. 
 ### Required Supplies
 
-You **must** have these supplies by the second lecture meeting and have them available for every subsequent meeting and all out-of-class working sessions. You need these to complete homeworks (see [Grading](#Grading) and [Note Taking Instructions](/content/Course%20Administration/Note%20Taking%20Instructions.md)) and participate in class.
+You **must** have these supplies by the second lecture meeting and have them available for every subsequent meeting and all out-of-class working sessions. You need these to complete homeworks (see [Grading](#Grading) and [Note Taking Instructions](/content/Course%20Administration/Note%20Taking%20Instructions.md)) and participate in class. Typed notes are not acceptable, but notes may be handwritten on a tablet provided it is always charged and just as available as a paper notebook.
 
-| Quantity | Item                                                             |
-| -------- | ---------------------------------------------------------------- |
-| 1        | college-ruled 1 subject notebook or equivalent                   |
-| 1        | black pen                                                        |
-| 1        | black pencil                                                     |
-| 1        | personal laptop computer (any specs; recommended minimums below) |
+| Quantity | Item                                                                                     |
+| -------- | ---------------------------------------------------------------------------------------- |
+| 1        | college-ruled 1 subject notebook or equivalent (tablet with digital pencil allowed)      |
+| 1        | black or dark blue pen, normal gray/black pencil or mechanical pencil, or digital pencil |
+| 1        | personal laptop computer (any specs; recommended minimums below)                         |
 
 > [!NOTE] 
 > Some in-class activities can be done on a smartphone or tablet, but others will require a laptop.

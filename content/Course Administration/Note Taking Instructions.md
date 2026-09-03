@@ -10,7 +10,7 @@ Structure however makes sense best to you. See the [Example HW Notes PDF](../ass
 
 ## Length & Neatness
 
-Do not write a book or a publication-ready diagram! Most submissions should be 1-3 pages only, but there is no strict upper limit. Practice being as concise as possible. Be legible but write and draw whatever makes sense to you (as long as you can decode it when you look back at it in the future).
+You must write/draw by hand on paper or an electronic tablet; typing is **not** acceptable. Do not write a book or a publication-ready diagram! Most submissions should be 1-3 pages only, but there is no strict upper limit. Practice being as concise as possible. Be legible but write and draw whatever makes sense to you (as long as you can decode it when you look back at it in the future).
 
 See also some [example notes](../assets/pdfs/15-Minutes-of-Notes.pdf) I took during a 15 minute conference presentation.
 ## Content
