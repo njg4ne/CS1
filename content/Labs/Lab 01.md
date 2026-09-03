@@ -1,6 +1,11 @@
 # Lab 01
 
 These instructions are **intentionally** vague! CS requires you to solve problems creatively and learn about the problem you are solving before/as you solve it.
+
+
+> [!NOTE]
+> Details are everything. Sometimes details conflict; you will notice details like file names, etc. conflict between this and linked resources; always trust this source most. Many details in your programs have to be exactly correct for them to work properly, so all the little details (down to capitalization and spelling) are critical.
+
 ## Part 1
 
 Spend 30 minutes, with your partner on:
@@ -23,7 +28,7 @@ The rules are:
 
 Use any resources you like, but produce unique code of your own.
 
-Complete these [programming tasks](https://cs.wlu.edu/~sprenkles/cs111/labs/lab1.php#:~:text=info.out.-,Objective%3A%20Arithmetic%20Operations%20in%20Python,-We%27ll%20practice%20writing) and submit.
+Complete these [programming tasks](https://cs.wlu.edu/~sprenkles/cs111/labs/lab1.php#:~:text=info.out.-,Objective%3A%20Arithmetic%20Operations%20in%20Python,-We%27ll%20practice%20writing) (only the 3 under "Objective: Arithmetic Operations in Python") and submit.
 
 The rules are:
 - work individually but with your partner for primary help
